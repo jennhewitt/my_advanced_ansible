@@ -1,0 +1,5 @@
+---
+# vars file for deploy_tomcat
+package:
+  - tomcat
+  - http
